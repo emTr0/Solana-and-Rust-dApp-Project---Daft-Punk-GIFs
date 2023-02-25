@@ -1,6 +1,6 @@
 # Solana and Rust dApp Project: Share Daft Punk GIFs
 
-Learned and created with Solana and Rust. Wrote and deployed a Solana program which connects to a React web3 app that anyone with a Solana wallet can interact with.
+Based on a [buildspace](https://buildspace.so/) project where I learned and created with Solana and Rust. Wrote and deployed a Solana program which connects to a React web3 app that anyone with a Solana wallet can interact with.
 
 Web3 client available at [gif-portal-starter.emtr0.repl.co](https://gif-portal-starter.emtr0.repl.co/).
 
